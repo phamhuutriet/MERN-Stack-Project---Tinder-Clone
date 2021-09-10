@@ -17,6 +17,7 @@ class App extends Component {
       <div className="App">
         <UserGreeting />
         <Greet />
+        <h1>Hello</h1>
       </div>
     );
   }
